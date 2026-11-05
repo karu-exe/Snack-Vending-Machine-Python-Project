@@ -22,17 +22,3 @@ for and while loops
 Conditional statements (if, elif, else)
 Basic input validation with .isdigit()
 Simple arithmetic to update money and stock
-
-How to run
-
-Make sure Python 3 is installed.
-Save the code as snack_machine.py.
-Run python snack_machine.py in a terminal.
-Enter your starting money and follow the menu.
-
-Possible improvements
-
-Add more snacks and categories
-Add a refill option for the machine’s stock
-Save purchase history to a file
-Rewrite it with functions or classes
