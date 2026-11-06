@@ -1,5 +1,5 @@
-# Snack-Vending-Machine-Python-Project
-A terminal-based vending machine simulator in Python that manages a menu, stock and a user’s balance using lists, loops and conditionals.
+# Snack Vending Machine Python Project
+A terminal based vending machine simulator in Python that manages a menu, stock and a user’s balance using lists, loops and conditionals.
 
 
 A Python program that simulates a snack vending machine in the terminal. The user enters how much money they have, then buys snacks from a numbered menu until they choose to exit or can’t afford anything else. The program tracks the user’s remaining money, the stock of each snack and the total amount spent.
